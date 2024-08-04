@@ -4,3 +4,4 @@ executable*
 .cache*
 *.txt
 !CMakeLists.txt
+!build.sh
